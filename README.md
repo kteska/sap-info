@@ -1,6 +1,6 @@
 # SAP Info
 
-![image](https://user-images.githubusercontent.com/63778196/93024547-b3c54a80-f5f7-11ea-8011-efd2eb7bc2c3.png)
+![image](https://user-images.githubusercontent.com/63778196/93024679-5ed60400-f5f8-11ea-9b9d-e36619a3d5be.png)
 
 ## Project description
 
